@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/project-js/static/css/main.6fc71b7d.chunk.css",
-    "main.js": "/project-js/static/js/main.ef567e78.chunk.js",
-    "main.js.map": "/project-js/static/js/main.ef567e78.chunk.js.map",
-    "runtime-main.js": "/project-js/static/js/runtime-main.d447956f.js",
-    "runtime-main.js.map": "/project-js/static/js/runtime-main.d447956f.js.map",
+    "main.css": "/project-js/static/css/main.db954c6c.chunk.css",
+    "main.js": "/project-js/static/js/main.11a2893e.chunk.js",
+    "main.js.map": "/project-js/static/js/main.11a2893e.chunk.js.map",
+    "runtime-main.js": "/project-js/static/js/runtime-main.5e1c7656.js",
+    "runtime-main.js.map": "/project-js/static/js/runtime-main.5e1c7656.js.map",
     "static/css/2.818011ed.chunk.css": "/project-js/static/css/2.818011ed.chunk.css",
-    "static/js/2.425086eb.chunk.js": "/project-js/static/js/2.425086eb.chunk.js",
-    "static/js/2.425086eb.chunk.js.map": "/project-js/static/js/2.425086eb.chunk.js.map",
-    "static/js/3.dfa30de7.chunk.js": "/project-js/static/js/3.dfa30de7.chunk.js",
-    "static/js/3.dfa30de7.chunk.js.map": "/project-js/static/js/3.dfa30de7.chunk.js.map",
+    "static/js/2.b1ddbd3d.chunk.js": "/project-js/static/js/2.b1ddbd3d.chunk.js",
+    "static/js/2.b1ddbd3d.chunk.js.map": "/project-js/static/js/2.b1ddbd3d.chunk.js.map",
+    "static/js/3.e58a5bca.chunk.js": "/project-js/static/js/3.e58a5bca.chunk.js",
+    "static/js/3.e58a5bca.chunk.js.map": "/project-js/static/js/3.e58a5bca.chunk.js.map",
     "index.html": "/project-js/index.html",
     "static/css/2.818011ed.chunk.css.map": "/project-js/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.6fc71b7d.chunk.css.map": "/project-js/static/css/main.6fc71b7d.chunk.css.map",
-    "static/js/2.425086eb.chunk.js.LICENSE.txt": "/project-js/static/js/2.425086eb.chunk.js.LICENSE.txt",
-    "static/media/Salman-logo.4d5a520d.png": "/project-js/static/media/Salman-logo.4d5a520d.png"
+    "static/css/main.db954c6c.chunk.css.map": "/project-js/static/css/main.db954c6c.chunk.css.map",
+    "static/js/2.b1ddbd3d.chunk.js.LICENSE.txt": "/project-js/static/js/2.b1ddbd3d.chunk.js.LICENSE.txt",
+    "static/media/Salman-logo.4d5a520d.png": "/project-js/static/media/Salman-logo.4d5a520d.png",
+    "static/media/Header.css": "/project-js/static/media/background.fa5d0a4a.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d447956f.js",
+    "static/js/runtime-main.5e1c7656.js",
     "static/css/2.818011ed.chunk.css",
-    "static/js/2.425086eb.chunk.js",
-    "static/css/main.6fc71b7d.chunk.css",
-    "static/js/main.ef567e78.chunk.js"
+    "static/js/2.b1ddbd3d.chunk.js",
+    "static/css/main.db954c6c.chunk.css",
+    "static/js/main.11a2893e.chunk.js"
   ]
 }
