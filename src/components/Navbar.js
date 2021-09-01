@@ -1,7 +1,8 @@
 import React from 'react';
 import logo from "../pictures/Salman-logo.png";
-import style from "./c-style/Navbar.css";
-import NavDropdown from 'react-bootstrap/NavDropdown';
+import "./c-style/Navbar.css";
+
+
 
 const Navbar = () => {
     return ( 
