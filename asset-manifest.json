@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/project-js/static/css/main.db954c6c.chunk.css",
-    "main.js": "/project-js/static/js/main.11a2893e.chunk.js",
-    "main.js.map": "/project-js/static/js/main.11a2893e.chunk.js.map",
-    "runtime-main.js": "/project-js/static/js/runtime-main.5e1c7656.js",
-    "runtime-main.js.map": "/project-js/static/js/runtime-main.5e1c7656.js.map",
+    "main.css": "/project-js/static/css/main.8bd5b22d.chunk.css",
+    "main.js": "/project-js/static/js/main.7a8821bb.chunk.js",
+    "main.js.map": "/project-js/static/js/main.7a8821bb.chunk.js.map",
+    "runtime-main.js": "/project-js/static/js/runtime-main.c929556f.js",
+    "runtime-main.js.map": "/project-js/static/js/runtime-main.c929556f.js.map",
     "static/css/2.818011ed.chunk.css": "/project-js/static/css/2.818011ed.chunk.css",
-    "static/js/2.b1ddbd3d.chunk.js": "/project-js/static/js/2.b1ddbd3d.chunk.js",
-    "static/js/2.b1ddbd3d.chunk.js.map": "/project-js/static/js/2.b1ddbd3d.chunk.js.map",
-    "static/js/3.e58a5bca.chunk.js": "/project-js/static/js/3.e58a5bca.chunk.js",
-    "static/js/3.e58a5bca.chunk.js.map": "/project-js/static/js/3.e58a5bca.chunk.js.map",
+    "static/js/2.2890eeec.chunk.js": "/project-js/static/js/2.2890eeec.chunk.js",
+    "static/js/2.2890eeec.chunk.js.map": "/project-js/static/js/2.2890eeec.chunk.js.map",
+    "static/js/3.2e416711.chunk.js": "/project-js/static/js/3.2e416711.chunk.js",
+    "static/js/3.2e416711.chunk.js.map": "/project-js/static/js/3.2e416711.chunk.js.map",
     "index.html": "/project-js/index.html",
     "static/css/2.818011ed.chunk.css.map": "/project-js/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.db954c6c.chunk.css.map": "/project-js/static/css/main.db954c6c.chunk.css.map",
-    "static/js/2.b1ddbd3d.chunk.js.LICENSE.txt": "/project-js/static/js/2.b1ddbd3d.chunk.js.LICENSE.txt",
+    "static/css/main.8bd5b22d.chunk.css.map": "/project-js/static/css/main.8bd5b22d.chunk.css.map",
+    "static/js/2.2890eeec.chunk.js.LICENSE.txt": "/project-js/static/js/2.2890eeec.chunk.js.LICENSE.txt",
     "static/media/Salman-logo.4d5a520d.png": "/project-js/static/media/Salman-logo.4d5a520d.png",
     "static/media/Header.css": "/project-js/static/media/background.fa5d0a4a.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e1c7656.js",
+    "static/js/runtime-main.c929556f.js",
     "static/css/2.818011ed.chunk.css",
-    "static/js/2.b1ddbd3d.chunk.js",
-    "static/css/main.db954c6c.chunk.css",
-    "static/js/main.11a2893e.chunk.js"
+    "static/js/2.2890eeec.chunk.js",
+    "static/css/main.8bd5b22d.chunk.css",
+    "static/js/main.7a8821bb.chunk.js"
   ]
 }
