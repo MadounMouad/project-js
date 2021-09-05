@@ -47,3 +47,7 @@ nav ul li {
     text-align: center !important;
     border-left: 5px solid orangered !important;
 }
+
+.dropdown-menu>li {
+    text-align: center !important;
+}

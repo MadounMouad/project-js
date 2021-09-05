@@ -1,12 +1,12 @@
 import React from 'react';
 import logo from "../pictures/Salman-logo.png";
 import "./c-style/Navbar.css";
-
+import LoginModel from './Login-modal';
 
 
 const Navbar = () => {
     return ( 
-        <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+        <nav className="navbar navbar-expand-lg navbar-dark bg-dark" >
         <div className="container">
         
         <a className="navbar-brand" href="#"><img className="logo" src={logo} alt="logo..." /></a>
@@ -32,14 +32,13 @@ const Navbar = () => {
             <li><a className="dropdown-item" href="#">2BAC</a></li>
             <li><a className="dropdown-item" href="#">1BAC</a></li>
             <li><a className="dropdown-item" href="#">5EME</a></li>
-            <li><a className="dropdown-item" href="#">4EME</a></li>
             <li><hr  className="dropdown-divider" /></li>
             <li><a className="dropdown-item" href="#">QUESTION ?</a></li>
           </ul>
         </li>
 
-              <li className="nav-item">
-                <a className="nav-link" href="#">Se Connecter</a>
+              <li className="nav-item" style={{textAlign:"center"}}>
+                <LoginModel/>
               </li>
     
             </ul>
